@@ -1,5 +1,6 @@
 # Web Scraper
 A simple web scraper who checks whenever the price of a random game has gone down to less than $**_x_**.
+I was using 3 libraries for the main system, **requests**, **BeautifulSoup** & **smtplib**.
 
 # Instructions
 - Choose the site you wish to get the product price of and past the URL in line **8**.
