@@ -7,4 +7,4 @@ A simple web scraper who checks whenever the price of a random game has gone dow
 - Paste the outcome of your search into line **11** (```'YOUR_USER_AGENT'```).
 
 
-Run: ```python scraper.py`
+Run: ```python scraper.py```
