@@ -5,7 +5,7 @@ import time
 
 
 # Random Website URL to Scrape:
-URL = 'https://www.microsoft.com/en-us/p/lego-marvel-super-heroes-2/c0g91v37489h?activetab=pivot:overviewtab'
+URL = ''
 
 headers = {
     "User-Agent": 'YOUR_USER_AGENT'}
