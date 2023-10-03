@@ -1,5 +1,5 @@
 # Web Scraper
-A simple web scraper who checks whenever the price of a random game has gone down to less than $**_x_**.
+A simple web scraper that checks whenever the price of a random game has gone down to less than $**_x_**.
 I was using 3 libraries for the main system, **requests**, **BeautifulSoup** & **smtplib**.
 
 # Instructions
